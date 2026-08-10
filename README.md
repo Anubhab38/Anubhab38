@@ -4,9 +4,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF)](https://linkedin.com/in/anubhab-patra-621b6227a/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=f1ece1)](https://x.com/apz_999/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F0FF)](https://anubhab-patra.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhab-patra-621b6227a/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/apz_999/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anubhab-patra.vercel.app/)
 
 </div>
 
