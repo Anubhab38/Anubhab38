@@ -99,7 +99,11 @@
 </div>
 
 <br>
+<div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=Anubhab38&theme=dark&background=000000&hide_border=false&sideNums=c9c9c9&currStreakNum=c9c9c9&fire=f1ece1&ring=00F0FF&stroke=000000&currStreakLabel=00F0FF" />
+
+</div>
 ## `> contribution_graph`
 
 <div align="center">
