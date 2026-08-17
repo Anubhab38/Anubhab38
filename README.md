@@ -89,9 +89,6 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anubhab38&show_icons=true&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=f1ece1&text_color=c9c9c9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhab38&layout=compact&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=c9c9c9&langs_count=8" />
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhab38&hide_border=true&background=000000&stroke=000000&ring=00F0FF&fire=f1ece1&currStreakLabel=00F0FF&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=6b6b6b" />
@@ -99,11 +96,7 @@
 </div>
 
 <br>
-<div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Anubhab38&theme=dark&background=000000&hide_border=false&sideNums=c9c9c9&currStreakNum=c9c9c9&fire=f1ece1&ring=00F0FF&stroke=000000&currStreakLabel=00F0FF" />
-
-</div>
 ## `> contribution_graph`
 
 <div align="center">
