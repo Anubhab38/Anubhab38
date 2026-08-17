@@ -78,3 +78,16 @@
 ![Eagle](https://img.shields.io/badge/Eagle-008C45?style=for-the-badge&logoColor=white)
 
 </div>
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anubhab38&show_icons=true&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=f1ece1&text_color=c9c9c9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhab38&layout=compact&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=c9c9c9&langs_count=8" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhab38&hide_border=true&background=000000&stroke=000000&ring=00F0FF&fire=f1ece1&currStreakLabel=00F0FF&sideLabels=c9c9c9&currStreakNum=c9c9c9&sideNums=c9c9c9&dates=6b6b6b" />
+
+</div>
