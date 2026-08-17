@@ -103,5 +103,5 @@
 ## `> contribution_graph`
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00F0FF/Anubhab38" alt="Anubhab's contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhab38&bg_color=000000&color=00F0FF&line=00F0FF&point=f1ece1&area=true&hide_border=true" alt="Anubhab's activity graph" width="100%" />
 </div>
