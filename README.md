@@ -79,6 +79,8 @@
 
 </div>
 
+<br>
+
 ## `> github_stats`
 
 <div align="center">
