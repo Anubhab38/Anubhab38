@@ -2,11 +2,18 @@
   <img src="./header.svg" alt="Anubhab Patra" width="100%" />
 </div>
 
+<br>
+
+## `> contact`
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhab-patra-621b6227a/)
+&nbsp;&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/apz_999/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anubhab-patra.vercel.app/)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://anubhab-patra.vercel.app/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
 
 </div>
 
